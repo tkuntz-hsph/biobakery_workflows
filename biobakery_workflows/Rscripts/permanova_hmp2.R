@@ -1,6 +1,7 @@
 #!/usr/bin/env Rscript
 
 # A utility script using the functions from the hmp2_analysis repository.
+# https://github.com/biobakery/hmp2_analysis
 
 library(vegan)
 library(permute)
